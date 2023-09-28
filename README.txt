@@ -8,4 +8,4 @@ Errors: N/A
 References: N/A
 Instructions: 
 - g++ complement.cpp
-- ./GTAC
+- ./complement ATTGGCC
